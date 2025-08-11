@@ -77,12 +77,3 @@ streamlit run app.py
 | "The meeting is at 10 AM tomorrow." | Neutral |
 | "Really disappointed with the latest patch." | Negative |
 
----
-
-## 📜 License
-This project is licensed under the MIT License.
-
----
-
-## 👨‍💻 Author
-**Your Name** – [GitHub Profile](https://github.com/your-username)
